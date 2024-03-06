@@ -1,0 +1,28 @@
+.box {
+    background-color: #CBC3E3; 
+    width: 50%; 
+    height: 50%vh;
+}
+.foto{
+    background-color: #6693f5; 
+    width: 250px; 
+    height: 250px;
+}
+.paragrafo{
+    color: white; 
+    background-color: #5a9f68;
+    font-size: 25px; font-family: Helvetica;
+     font-weight: bold;
+}
+.divd{
+    width: 50%; 
+    height: 50vh; 
+    background-color:rgb(144, 238, 144);
+    font-family: 'Franklin Gothic Medium';
+}
+.dive{
+    width: 50%vw; 
+    height: 50%; 
+    background-color: rgb(224, 176, 255);
+    font-family: 'Franklin Gothic Medium';
+}
